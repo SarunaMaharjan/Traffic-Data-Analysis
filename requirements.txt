@@ -1,0 +1,14 @@
+numpy
+pandas
+math.radians
+math.cos
+math.sin
+math.asin
+math.sqrt
+itertools.combinations
+itertools.product
+matplotlib.pyplot 
+networkx.nx
+seaborn 
+scipy.sparse.linalg.eigsh
+scipy.sparse.spdiags
